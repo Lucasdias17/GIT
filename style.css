@@ -349,8 +349,3 @@ nav.show div.icon-close {
   font-size: 5rem;
   color: var(--base-color);
 }
-
-.card .title {
-  font-size: 1.5rem;
-  margin-bottom: 0.75rem;
-}
